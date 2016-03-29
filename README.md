@@ -1,5 +1,5 @@
-# GDR Submission tracking
-Use the *issues* section of this repository to report any issues with GDR datasets or their corresponding metadata.  When citing specific issues, please mention the unique data submission number associated with the GDR submissions.  This is the number found immediately after `/submissions/` in the URL.
+# GDR Submissions tracking
+Use the **issues** section of this repository to report any issues with GDR datasets or their corresponding metadata.  When citing specific issues, please mention the unique data submission number associated with the GDR submissions.  This is the number found immediately after `/submissions/` in the URL.
 
 Example issues:
 * The title and description of submission 64 are too vague or too project specific.
